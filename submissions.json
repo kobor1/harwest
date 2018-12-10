@@ -806,6 +806,23 @@
     ],
     "timestamp": "Mar/13/2021 17:38"
   },
+  "CF46865296": {
+    "contest_id": 1084,
+    "language": "GNU C++11",
+    "path": "codeforces/1084/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "The Fair Nut and the Best Path",
+    "problem_url": "https://codeforces.com/contest/1084/problem/D",
+    "submission_id": "CF46865296",
+    "submission_url": "https://codeforces.com/contest/1084/submission/46865296",
+    "tags": [
+      "dp",
+      "trees",
+      "*1800"
+    ],
+    "timestamp": "Dec/10/2018 18:08"
+  },
   "CF47171727": {
     "contest_id": 733,
     "language": "GNU C++11",

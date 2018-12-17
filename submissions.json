@@ -806,6 +806,25 @@
     ],
     "timestamp": "Mar/13/2021 17:38"
   },
+  "CF47171727": {
+    "contest_id": 733,
+    "language": "GNU C++11",
+    "path": "codeforces/733/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Epidemic in Monstropolis",
+    "problem_url": "https://codeforces.com/contest/733/problem/C",
+    "submission_id": "CF47171727",
+    "submission_url": "https://codeforces.com/contest/733/submission/47171727",
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "greedy",
+      "two pointers",
+      "*1800"
+    ],
+    "timestamp": "Dec/17/2018 16:21"
+  },
   "CF47181429": {
     "contest_id": 1084,
     "language": "GNU C++11",

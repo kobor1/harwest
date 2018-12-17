@@ -968,6 +968,23 @@
     ],
     "timestamp": "Dec/17/2018 16:21"
   },
+  "CF47172026": {
+    "contest_id": 901,
+    "language": "GNU C++11",
+    "path": "codeforces/901/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Hashing Trees",
+    "problem_url": "https://codeforces.com/contest/901/problem/A",
+    "submission_id": "CF47172026",
+    "submission_url": "https://codeforces.com/contest/901/submission/47172026",
+    "tags": [
+      "constructive algorithms",
+      "trees",
+      "*1500"
+    ],
+    "timestamp": "Dec/17/2018 16:31"
+  },
   "CF47181429": {
     "contest_id": 1084,
     "language": "GNU C++11",

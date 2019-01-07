@@ -42,7 +42,8 @@ int nr(int a, int b){
 bool match(int v){
 	vis[v]=true;
 	for(auto x: G[v]){
-		if(!vis[x] && (vis[x]=true) && (!kumpel[x] || match(kumpel[x]))){
+		if(!vis[kumpel[x]] && (!kumpel[x] || match(kumpel[x]))){
+			vis[x]=true;
 			kumpel[x]=v;
 			kumpel[v]=x;
 			return true;

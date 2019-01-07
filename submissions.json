@@ -806,6 +806,24 @@
     ],
     "timestamp": "Mar/13/2021 17:38"
   },
+  "CF48051401": {
+    "contest_id": 143,
+    "language": "GNU C++11",
+    "path": "codeforces/143/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Help General",
+    "problem_url": "https://codeforces.com/contest/143/problem/D",
+    "submission_id": "CF48051401",
+    "submission_url": "https://codeforces.com/contest/143/submission/48051401",
+    "tags": [
+      "graph matchings",
+      "greedy",
+      "math",
+      "*1800"
+    ],
+    "timestamp": "Jan/07/2019 10:20"
+  },
   "CF48051504": {
     "contest_id": 143,
     "language": "GNU C++11",

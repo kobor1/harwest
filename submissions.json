@@ -806,6 +806,23 @@
     ],
     "timestamp": "Mar/13/2021 17:38"
   },
+  "CF53528159": {
+    "contest_id": 1150,
+    "language": "GNU C++11",
+    "path": "codeforces/1150/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Three Religions",
+    "problem_url": "https://codeforces.com/contest/1150/problem/D",
+    "submission_id": "CF53528159",
+    "submission_url": "https://codeforces.com/contest/1150/submission/53528159",
+    "tags": [
+      "dp",
+      "strings",
+      "*2200"
+    ],
+    "timestamp": "Apr/29/2019 20:01"
+  },
   "CF53747937": {
     "contest_id": 1161,
     "language": "GNU C++11",

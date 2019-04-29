@@ -31,7 +31,7 @@ char cc;
 
 int dp(int a, int b, int c){
 	if(memo[a][b][c]!=-1) return memo[a][b][c];
-	if(a==0 && b==0 & c==0) return memo[a][b][c]=0;
+	if(a==0 && b==0 && c==0) return memo[a][b][c]=0;
 	memo[a][b][c]=inf;
 	int pom;
 	if(a!=0){

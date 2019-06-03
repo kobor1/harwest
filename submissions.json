@@ -806,6 +806,22 @@
     ],
     "timestamp": "Mar/13/2021 17:38"
   },
+  "CF55058440": {
+    "contest_id": 1020,
+    "language": "GNU C++11",
+    "path": "codeforces/1020/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Elections",
+    "problem_url": "https://codeforces.com/contest/1020/problem/C",
+    "submission_id": "CF55058440",
+    "submission_url": "https://codeforces.com/contest/1020/submission/55058440",
+    "tags": [
+      "greedy",
+      "*1700"
+    ],
+    "timestamp": "Jun/03/2019 22:20"
+  },
   "CF55060110": {
     "contest_id": 1034,
     "language": "GNU C++11",

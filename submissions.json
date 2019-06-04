@@ -806,6 +806,26 @@
     ],
     "timestamp": "Mar/13/2021 17:38"
   },
+  "CF55102203": {
+    "contest_id": 388,
+    "language": "GNU C++11",
+    "path": "codeforces/388/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Fox and Minimal path",
+    "problem_url": "https://codeforces.com/contest/388/problem/B",
+    "submission_id": "CF55102203",
+    "submission_url": "https://codeforces.com/contest/388/submission/55102203",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "graphs",
+      "implementation",
+      "math",
+      "*1900"
+    ],
+    "timestamp": "Jun/04/2019 23:17"
+  },
   "CF55114367": {
     "contest_id": 453,
     "language": "GNU C++11",

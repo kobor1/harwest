@@ -31,7 +31,7 @@ int main(){
 	cin.tie(0); cout.tie(0);
 	cin>>n;
 	FOR(i, 1, n) cin>>p[i];
-	FOR(i, 2, n+1) dp[i]=((dp[i-1]*2-dp[p[i-1]]+2)%mod+mod)%mod;
+	FOR(i, 2, n+1) dp[i]=((ll)dp[i-1]*2-dp[p[i-1]]+mod+2)%mod;
 	cout<<dp[n+1]<<ent;
 	return 0;
 }

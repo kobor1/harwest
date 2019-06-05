@@ -806,6 +806,24 @@
     ],
     "timestamp": "Mar/13/2021 17:38"
   },
+  "CF55116752": {
+    "contest_id": 372,
+    "language": "GNU C++11",
+    "path": "codeforces/372/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Watching Fireworks is Fun",
+    "problem_url": "https://codeforces.com/contest/372/problem/C",
+    "submission_id": "CF55116752",
+    "submission_url": "https://codeforces.com/contest/372/submission/55116752",
+    "tags": [
+      "data structures",
+      "dp",
+      "math",
+      "*2100"
+    ],
+    "timestamp": "Jun/05/2019 11:00"
+  },
   "CF55116787": {
     "contest_id": 372,
     "language": "GNU C++11",

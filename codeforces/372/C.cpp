@@ -25,9 +25,9 @@ const int N=15e4+5;
 int n, m, d;
 ll dp[2][N];
 int a[N], b[N], t[N]={-inf};
+deque<pair<ll, int> > q;
 
 void licz(int w){
-	deque<pair<ll, int> > q;
 	ll przes=min((ll)(t[w]-t[w-1])*d, (ll)n);
 	int l, r;
 	l=-przes;
@@ -45,6 +45,7 @@ void licz(int w){
 		}
 		dp[w&1][i]=q.front().st+(b[w]-abs(a[w]-i));
 	}
+	q.clear();
 }
 
 void solve(){
@@ -58,6 +59,6 @@ void solve(){
 int main(){
 	ios::sync_with_stdio(0);
 	cin.tie(0); cout.tie(0);
-	solve(); 
+	solve();
 	return 0;
 }

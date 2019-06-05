@@ -806,6 +806,24 @@
     ],
     "timestamp": "Mar/13/2021 17:38"
   },
+  "CF55126807": {
+    "contest_id": 1174,
+    "language": "GNU C++11",
+    "path": "codeforces/1174/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Ehab Fails to Be Thanos",
+    "problem_url": "https://codeforces.com/contest/1174/problem/A",
+    "submission_id": "CF55126807",
+    "submission_url": "https://codeforces.com/contest/1174/submission/55126807",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "sortings",
+      "*1000"
+    ],
+    "timestamp": "Jun/05/2019 15:13"
+  },
   "CF55156215": {
     "contest_id": 466,
     "language": "GNU C++11",

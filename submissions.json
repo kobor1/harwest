@@ -806,6 +806,24 @@
     ],
     "timestamp": "Mar/13/2021 17:38"
   },
+  "CF55208525": {
+    "contest_id": 446,
+    "language": "GNU C++11",
+    "path": "codeforces/446/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "DZY Loves Sequences",
+    "problem_url": "https://codeforces.com/contest/446/problem/A",
+    "submission_id": "CF55208525",
+    "submission_url": "https://codeforces.com/contest/446/submission/55208525",
+    "tags": [
+      "dp",
+      "implementation",
+      "two pointers",
+      "*1600"
+    ],
+    "timestamp": "Jun/06/2019 15:37"
+  },
   "CF56193227": {
     "contest_id": 1186,
     "language": "GNU C++11",

@@ -806,6 +806,24 @@
     ],
     "timestamp": "Mar/13/2021 17:38"
   },
+  "CF56208431": {
+    "contest_id": 1186,
+    "language": "GNU C++11",
+    "path": "codeforces/1186/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Vus the Cossack and Numbers",
+    "problem_url": "https://codeforces.com/contest/1186/problem/D",
+    "submission_id": "CF56208431",
+    "submission_url": "https://codeforces.com/contest/1186/submission/56208431",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Jun/28/2019 11:13"
+  },
   "CF56221873": {
     "contest_id": 1186,
     "language": "GNU C++11",

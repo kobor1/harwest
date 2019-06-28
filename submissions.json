@@ -806,6 +806,23 @@
     ],
     "timestamp": "Mar/13/2021 17:38"
   },
+  "CF56243063": {
+    "contest_id": 630,
+    "language": "GNU C++11",
+    "path": "codeforces/630/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Benches",
+    "problem_url": "https://codeforces.com/contest/630/problem/H",
+    "submission_id": "CF56243063",
+    "submission_url": "https://codeforces.com/contest/630/submission/56243063",
+    "tags": [
+      "combinatorics",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Jun/28/2019 21:24"
+  },
   "CF56813200": {
     "contest_id": 459,
     "language": "GNU C++11",

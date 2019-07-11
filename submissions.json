@@ -806,6 +806,24 @@
     ],
     "timestamp": "Mar/13/2021 17:38"
   },
+  "CF56835551": {
+    "contest_id": 383,
+    "language": "GNU C++11",
+    "path": "codeforces/383/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Propagating tree",
+    "problem_url": "https://codeforces.com/contest/383/problem/C",
+    "submission_id": "CF56835551",
+    "submission_url": "https://codeforces.com/contest/383/submission/56835551",
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "trees",
+      "*2000"
+    ],
+    "timestamp": "Jul/11/2019 10:53"
+  },
   "CF56837174": {
     "contest_id": 492,
     "language": "GNU C++11",

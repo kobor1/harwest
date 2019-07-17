@@ -806,6 +806,23 @@
     ],
     "timestamp": "Mar/13/2021 17:38"
   },
+  "CF57188767": {
+    "contest_id": 360,
+    "language": "GNU C++11",
+    "path": "codeforces/360/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Levko and Array",
+    "problem_url": "https://codeforces.com/contest/360/problem/B",
+    "submission_id": "CF57188767",
+    "submission_url": "https://codeforces.com/contest/360/submission/57188767",
+    "tags": [
+      "binary search",
+      "dp",
+      "*2000"
+    ],
+    "timestamp": "Jul/17/2019 11:39"
+  },
   "CF57188773": {
     "contest_id": 360,
     "language": "GNU C++11",

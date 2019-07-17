@@ -1,5 +1,5 @@
 //Krzysztof Boryczka
-#pragma GCC optimize "O3"
+// #pragma GCC optimize("O3")
 #include <bits/stdc++.h>
 using namespace std;
 

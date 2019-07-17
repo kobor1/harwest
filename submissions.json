@@ -806,6 +806,24 @@
     ],
     "timestamp": "Mar/13/2021 17:38"
   },
+  "CF57248942": {
+    "contest_id": 425,
+    "language": "GNU C++11",
+    "path": "codeforces/425/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Sereja and Squares",
+    "problem_url": "https://codeforces.com/contest/425/problem/D",
+    "submission_id": "CF57248942",
+    "submission_url": "https://codeforces.com/contest/425/submission/57248942",
+    "tags": [
+      "binary search",
+      "data structures",
+      "hashing",
+      "*2300"
+    ],
+    "timestamp": "Jul/17/2019 23:09"
+  },
   "CF57270430": {
     "contest_id": 484,
     "language": "GNU C++11",

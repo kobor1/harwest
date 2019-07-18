@@ -806,6 +806,25 @@
     ],
     "timestamp": "Mar/13/2021 17:38"
   },
+  "CF57292499": {
+    "contest_id": 547,
+    "language": "GNU C++11",
+    "path": "codeforces/547/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Mike and Frog",
+    "problem_url": "https://codeforces.com/contest/547/problem/A",
+    "submission_id": "CF57292499",
+    "submission_url": "https://codeforces.com/contest/547/submission/57292499",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "math",
+      "*2200"
+    ],
+    "timestamp": "Jul/18/2019 19:24"
+  },
   "CF57318451": {
     "contest_id": 464,
     "language": "GNU C++11",

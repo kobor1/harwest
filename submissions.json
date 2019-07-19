@@ -806,6 +806,23 @@
     ],
     "timestamp": "Mar/13/2021 17:38"
   },
+  "CF57318451": {
+    "contest_id": 464,
+    "language": "GNU C++11",
+    "path": "codeforces/464/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Restore Cube ",
+    "problem_url": "https://codeforces.com/contest/464/problem/B",
+    "submission_id": "CF57318451",
+    "submission_url": "https://codeforces.com/contest/464/submission/57318451",
+    "tags": [
+      "brute force",
+      "geometry",
+      "*2000"
+    ],
+    "timestamp": "Jul/19/2019 11:03"
+  },
   "CF57320032": {
     "contest_id": 487,
     "language": "GNU C++11",

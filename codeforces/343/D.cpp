@@ -71,7 +71,7 @@ int query(int l, int op){
 
 void path(int v, int u, int val, int op){
 	while(nxt[v]!=nxt[u]){
-		if(in[v]>in[u]) swap(v, u);
+		if(in[nxt[v]]>in[nxt[u]]) swap(v, u);
 		add(in[nxt[u]], in[u], val, op);
 		u=par[nxt[u]];
 	}

@@ -24,24 +24,25 @@ const ll INF=0x3f3f3f3f3f3f3f3f;
 const int mod=1e9+7;
 const int N=101;
 
-typedef long long mat[N+1][N+1];
+struct mat{
+	int m[N+1][N+1];
+	mat(){
+		memset(m, 0, sizeof(m));
+	}
+	mat operator *(mat b){
+		mat c=mat();
+		FOR(i, 1, N) FOR(k, 1, N) FOR(j, 1, N) c.m[i][j]=(c.m[i][j]+(ll)m[i][k]*b.m[k][j])%mod;
+		return c;
+	}
+};
 
-mat base, ret, pom;
-
-void mnoz(mat &m0, mat &m1, mat &m2){
-	memset(m0, 0, sizeof(m0));
-	FOR(i, 1, N) FOR(k, 1, N) FOR(j, 1, N) m0[i][j]=(m0[i][j]+(ll)m1[i][k]*m2[k][j])%mod;
-}
-
-void ustaw(mat &m0, mat &m1){
-	memcpy(m0, m1, sizeof(m0));
-}
+mat base, ret;
 
 void pov(int exp){
-	FOR(i, 1, N) ret[i][i]=1;
+	FOR(i, 1, N) ret.m[i][i]=1;
 	while(exp){
-		if(exp&1) mnoz(pom, ret, base), ustaw(ret, pom);
-		mnoz(pom, base, base), ustaw(base, pom);
+		if(exp&1) ret=ret*base;
+		base=base*base;
 		exp>>=1;
 	}
 }
@@ -51,12 +52,12 @@ void solve(){
 	cin>>n>>k;
 	FOR(i, 1, n){
 		cin>>a;
-		base[1][a]++;
+		base.m[1][a]++;
 	}
-	FOR(i, 2, N-1) base[i][i-1]++;
-	base[N][1]=base[N][N]=1;
+	FOR(i, 2, N-1) base.m[i][i-1]++;
+	base.m[N][1]=base.m[N][N]=1;
 	pov(k+1);
-	cout<<ret[N][1]<<ent;
+	cout<<ret.m[N][1]<<ent;
 }
 
 int main(){

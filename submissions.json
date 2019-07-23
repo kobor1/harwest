@@ -806,6 +806,23 @@
     ],
     "timestamp": "Mar/13/2021 17:38"
   },
+  "CF57600118": {
+    "contest_id": 425,
+    "language": "GNU C++14",
+    "path": "codeforces/425/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Sereja and Table ",
+    "problem_url": "https://codeforces.com/contest/425/problem/B",
+    "submission_id": "CF57600118",
+    "submission_url": "https://codeforces.com/contest/425/submission/57600118",
+    "tags": [
+      "bitmasks",
+      "greedy",
+      "*2200"
+    ],
+    "timestamp": "Jul/23/2019 17:26"
+  },
   "CF57600197": {
     "contest_id": 425,
     "language": "GNU C++14",

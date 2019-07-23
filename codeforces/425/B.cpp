@@ -43,7 +43,7 @@ void solve(){
 		FOR(msk, 0, (1<<n)-1){
 			FOR(i, 1, n) t[i][1]^=(msk&(1<<(i-1)))>>(i-1);
 			ans=min(ans, __builtin_popcount(msk)+func());
-			FOR(i, 1, n) t[i][1]^=(msk&(1<<(i-1)))>>(i-1);
+			FOR(i, 1, n) t[i][1]^=msk&(1<<(i-1));
 		}
 	}
 	else{

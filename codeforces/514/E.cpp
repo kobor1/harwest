@@ -29,14 +29,12 @@ typedef long long mat[N+1][N+1];
 mat base, ret, pom;
 
 void mnoz(mat &m0, mat &m1, mat &m2){
-	FOR(i, 1, N) FOR(j, 1, N) m0[i][j]=0;
-	// memset(m0, 0, sizeof(m0));
+	memset(m0, 0, sizeof(m0));
 	FOR(i, 1, N) FOR(k, 1, N) FOR(j, 1, N) m0[i][j]=(m0[i][j]+(ll)m1[i][k]*m2[k][j])%mod;
 }
 
 void ustaw(mat &m0, mat &m1){
-	FOR(i, 1, N) FOR(j, 1, N) m0[i][j]=m1[i][j];
-	// memcpy(m0, m1, sizeof(m0));
+	memcpy(m0, m1, sizeof(m0));
 }
 
 void pov(int exp){

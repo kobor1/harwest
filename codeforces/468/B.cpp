@@ -41,8 +41,8 @@ void solve(){
 	FOR(i, 1, n) M[t[i]]=1;
 	FOR(i, 1, n){
 		if(M[t[i]]!=1) continue;
-		if(M[a-t[i]]==1 || M[a-t[i]]==2) M[a-t[i]]=M[t[i]]=2;
-		else if(M[b-t[i]]==1 || M[b-t[i]]==3) M[b-t[i]]=M[t[i]]=3;
+		if(M[a-t[i]]==1) M[a-t[i]]=M[t[i]]=2;
+		else if(M[b-t[i]]==1) M[b-t[i]]=M[t[i]]=3;
 		else{
 			cout<<"NO\n";
 			return;

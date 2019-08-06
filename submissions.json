@@ -806,6 +806,26 @@
     ],
     "timestamp": "Mar/13/2021 17:38"
   },
+  "CF58404947": {
+    "contest_id": 896,
+    "language": "GNU C++14",
+    "path": "codeforces/896/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Ithea Plays With Chtholly",
+    "problem_url": "https://codeforces.com/contest/896/problem/B",
+    "submission_id": "CF58404947",
+    "submission_url": "https://codeforces.com/contest/896/submission/58404947",
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "games",
+      "greedy",
+      "interactive",
+      "*2000"
+    ],
+    "timestamp": "Aug/06/2019 21:55"
+  },
   "CF58437643": {
     "contest_id": 1202,
     "language": "GNU C++14",

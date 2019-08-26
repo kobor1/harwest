@@ -806,6 +806,26 @@
     ],
     "timestamp": "Mar/13/2021 17:38"
   },
+  "CF59545525": {
+    "contest_id": 414,
+    "language": "GNU C++14",
+    "path": "codeforces/414/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Mashmokh and Water Tanks",
+    "problem_url": "https://codeforces.com/contest/414/problem/D",
+    "submission_id": "CF59545525",
+    "submission_url": "https://codeforces.com/contest/414/submission/59545525",
+    "tags": [
+      "binary search",
+      "data structures",
+      "greedy",
+      "trees",
+      "two pointers",
+      "*2300"
+    ],
+    "timestamp": "Aug/26/2019 23:32"
+  },
   "CF59594202": {
     "contest_id": 406,
     "language": "GNU C++14",

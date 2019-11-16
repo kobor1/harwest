@@ -806,6 +806,23 @@
     ],
     "timestamp": "Mar/13/2021 17:38"
   },
+  "CF65173409": {
+    "contest_id": 1253,
+    "language": "GNU C++17",
+    "path": "codeforces/1253/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Silly Mistake",
+    "problem_url": "https://codeforces.com/contest/1253/problem/B",
+    "submission_id": "CF65173409",
+    "submission_url": "https://codeforces.com/contest/1253/submission/65173409",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Nov/16/2019 15:47"
+  },
   "CF65175498": {
     "contest_id": 1253,
     "language": "GNU C++17",

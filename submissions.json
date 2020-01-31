@@ -806,6 +806,24 @@
     ],
     "timestamp": "Mar/13/2021 17:38"
   },
+  "CF69922978": {
+    "contest_id": 679,
+    "language": "GNU C++17",
+    "path": "codeforces/679/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Bear and Prime 100",
+    "problem_url": "https://codeforces.com/contest/679/problem/A",
+    "submission_id": "CF69922978",
+    "submission_url": "https://codeforces.com/contest/679/submission/69922978",
+    "tags": [
+      "constructive algorithms",
+      "interactive",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Jan/31/2020 20:06"
+  },
   "CF69927179": {
     "contest_id": 1282,
     "language": "GNU C++17",

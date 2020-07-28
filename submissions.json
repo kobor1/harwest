@@ -806,6 +806,22 @@
     ],
     "timestamp": "Mar/13/2021 17:38"
   },
+  "CF88193203": {
+    "contest_id": 466,
+    "language": "Java 11",
+    "path": "codeforces/466/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Cheap Travel",
+    "problem_url": "https://codeforces.com/contest/466/problem/A",
+    "submission_id": "CF88193203",
+    "submission_url": "https://codeforces.com/contest/466/submission/88193203",
+    "tags": [
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Jul/28/2020 12:12"
+  },
   "CF88197736": {
     "contest_id": 550,
     "language": "Java 11",

@@ -806,6 +806,24 @@
     ],
     "timestamp": "Mar/13/2021 17:38"
   },
+  "CF90004964": {
+    "contest_id": 140,
+    "language": "GNU C++17",
+    "path": "codeforces/140/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "New Year Cards",
+    "problem_url": "https://codeforces.com/contest/140/problem/B",
+    "submission_id": "CF90004964",
+    "submission_url": "https://codeforces.com/contest/140/submission/90004964",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "*1800"
+    ],
+    "timestamp": "Aug/15/2020 11:13"
+  },
   "CF90731661": {
     "contest_id": 140,
     "language": "GNU C++17 (64)",

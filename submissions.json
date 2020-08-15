@@ -806,6 +806,23 @@
     ],
     "timestamp": "Mar/13/2021 17:38"
   },
+  "CF90003869": {
+    "contest_id": 140,
+    "language": "GNU C++17",
+    "path": "codeforces/140/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "New Year Contest",
+    "problem_url": "https://codeforces.com/contest/140/problem/D",
+    "submission_id": "CF90003869",
+    "submission_url": "https://codeforces.com/contest/140/submission/90003869",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1800"
+    ],
+    "timestamp": "Aug/15/2020 10:58"
+  },
   "CF90004964": {
     "contest_id": 140,
     "language": "GNU C++17",

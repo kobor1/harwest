@@ -806,6 +806,24 @@
     ],
     "timestamp": "Mar/13/2021 17:38"
   },
+  "CF93073042": {
+    "contest_id": 1351,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/1351/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Square?",
+    "problem_url": "https://codeforces.com/contest/1351/problem/B",
+    "submission_id": "CF93073042",
+    "submission_url": "https://codeforces.com/contest/1351/submission/93073042",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Sep/17/2020 20:59"
+  },
   "CF93073111": {
     "contest_id": 1351,
     "language": "GNU C++17 (64)",

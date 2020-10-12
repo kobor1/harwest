@@ -806,6 +806,27 @@
     ],
     "timestamp": "Mar/13/2021 17:38"
   },
+  "CF95355252": {
+    "contest_id": 1388,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/1388/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Captain Flint and Treasure",
+    "problem_url": "https://codeforces.com/contest/1388/problem/D",
+    "submission_id": "CF95355252",
+    "submission_url": "https://codeforces.com/contest/1388/submission/95355252",
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "implementation",
+      "trees",
+      "*2000"
+    ],
+    "timestamp": "Oct/12/2020 17:03"
+  },
   "CF95380648": {
     "contest_id": 1394,
     "language": "GNU C++17 (64)",

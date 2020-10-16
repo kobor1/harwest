@@ -26,7 +26,7 @@ int cnt[11*N];
 
 bool cmp(pair<ii, int> a, pair<ii, int> b){
 	if(a.X.X/SQR == b.X.X/SQR) return a.X.Y < b.X.Y;
-	return a.X.X > b.X.X;
+	return a.X.X < b.X.X;
 }
 
 void dod(int ind){

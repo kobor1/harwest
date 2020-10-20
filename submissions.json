@@ -806,6 +806,23 @@
     ],
     "timestamp": "Mar/13/2021 17:38"
   },
+  "CF96034644": {
+    "contest_id": 903,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/903/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Almost Difference",
+    "problem_url": "https://codeforces.com/contest/903/problem/D",
+    "submission_id": "CF96034644",
+    "submission_url": "https://codeforces.com/contest/903/submission/96034644",
+    "tags": [
+      "data structures",
+      "math",
+      "*2200"
+    ],
+    "timestamp": "Oct/20/2020 06:12"
+  },
   "CF96043305": {
     "contest_id": 1400,
     "language": "GNU C++17 (64)",

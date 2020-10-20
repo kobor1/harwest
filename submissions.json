@@ -806,6 +806,25 @@
     ],
     "timestamp": "Mar/13/2021 17:38"
   },
+  "CF96044305": {
+    "contest_id": 1107,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/1107/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Compression",
+    "problem_url": "https://codeforces.com/contest/1107/problem/D",
+    "submission_id": "CF96044305",
+    "submission_url": "https://codeforces.com/contest/1107/submission/96044305",
+    "tags": [
+      "dp",
+      "implementation",
+      "math",
+      "number theory",
+      "*1800"
+    ],
+    "timestamp": "Oct/20/2020 09:15"
+  },
   "CF98703127": {
     "contest_id": 1439,
     "language": "GNU C++17 (64)",

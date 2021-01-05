@@ -1,4 +1,21 @@
 {
+  "CF103381815": {
+    "contest_id": 847,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/847/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Preparing for Merge Sort",
+    "problem_url": "https://codeforces.com/contest/847/problem/B",
+    "submission_id": "CF103381815",
+    "submission_url": "https://codeforces.com/contest/847/submission/103381815",
+    "tags": [
+      "binary search",
+      "data structures",
+      "*1600"
+    ],
+    "timestamp": "Jan/05/2021 13:53"
+  },
   "CF103381975": {
     "contest_id": 209,
     "language": "GNU C++17 (64)",

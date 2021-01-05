@@ -1,4 +1,21 @@
 {
+  "CF103382917": {
+    "contest_id": 196,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/196/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Lexicographically Maximum Subsequence",
+    "problem_url": "https://codeforces.com/contest/196/problem/A",
+    "submission_id": "CF103382917",
+    "submission_url": "https://codeforces.com/contest/196/submission/103382917",
+    "tags": [
+      "greedy",
+      "strings",
+      "*1100"
+    ],
+    "timestamp": "Jan/05/2021 14:04"
+  },
   "CF103382999": {
     "contest_id": 627,
     "language": "GNU C++17 (64)",

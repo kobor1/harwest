@@ -1,4 +1,22 @@
 {
+  "CF103383808": {
+    "contest_id": 442,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/442/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Borya and Hanabi",
+    "problem_url": "https://codeforces.com/contest/442/problem/A",
+    "submission_id": "CF103383808",
+    "submission_url": "https://codeforces.com/contest/442/submission/103383808",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "Jan/05/2021 14:14"
+  },
   "CF103383983": {
     "contest_id": 958,
     "language": "GNU C++17 (64)",

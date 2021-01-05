@@ -1,4 +1,22 @@
 {
+  "CF103384038": {
+    "contest_id": 286,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/286/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Ladies' Shop",
+    "problem_url": "https://codeforces.com/contest/286/problem/E",
+    "submission_id": "CF103384038",
+    "submission_url": "https://codeforces.com/contest/286/submission/103384038",
+    "tags": [
+      "constructive algorithms",
+      "fft",
+      "math",
+      "*2800"
+    ],
+    "timestamp": "Jan/05/2021 14:16"
+  },
   "CF103384215": {
     "contest_id": 776,
     "language": "GNU C++17 (64)",

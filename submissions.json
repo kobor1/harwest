@@ -1,4 +1,22 @@
 {
+  "CF103382999": {
+    "contest_id": 627,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/627/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Package Delivery",
+    "problem_url": "https://codeforces.com/contest/627/problem/C",
+    "submission_id": "CF103382999",
+    "submission_url": "https://codeforces.com/contest/627/submission/103382999",
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "greedy",
+      "*2200"
+    ],
+    "timestamp": "Jan/05/2021 14:05"
+  },
   "CF103383098": {
     "contest_id": 727,
     "language": "GNU C++17 (64)",

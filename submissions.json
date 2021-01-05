@@ -1,4 +1,22 @@
 {
+  "CF103384538": {
+    "contest_id": 309,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/309/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Memory for Arrays",
+    "problem_url": "https://codeforces.com/contest/309/problem/C",
+    "submission_id": "CF103384538",
+    "submission_url": "https://codeforces.com/contest/309/submission/103384538",
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "greedy",
+      "*1900"
+    ],
+    "timestamp": "Jan/05/2021 14:22"
+  },
   "CF103384731": {
     "contest_id": 705,
     "language": "GNU C++17 (64)",

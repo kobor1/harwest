@@ -1,4 +1,20 @@
 {
+  "CF103382121": {
+    "contest_id": 366,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/366/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Dima and Salad",
+    "problem_url": "https://codeforces.com/contest/366/problem/C",
+    "submission_id": "CF103382121",
+    "submission_url": "https://codeforces.com/contest/366/submission/103382121",
+    "tags": [
+      "dp",
+      "*1900"
+    ],
+    "timestamp": "Jan/05/2021 13:56"
+  },
   "CF103382631": {
     "contest_id": 1139,
     "language": "GNU C++17 (64)",

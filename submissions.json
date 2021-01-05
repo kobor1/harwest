@@ -1,4 +1,22 @@
 {
+  "CF103383772": {
+    "contest_id": 244,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/244/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Undoubtedly Lucky Numbers",
+    "problem_url": "https://codeforces.com/contest/244/problem/B",
+    "submission_id": "CF103383772",
+    "submission_url": "https://codeforces.com/contest/244/submission/103383772",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dfs and similar",
+      "*1600"
+    ],
+    "timestamp": "Jan/05/2021 14:13"
+  },
   "CF103383808": {
     "contest_id": 442,
     "language": "GNU C++17 (64)",

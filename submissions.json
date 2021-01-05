@@ -1,4 +1,23 @@
 {
+  "CF103383584": {
+    "contest_id": 868,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/868/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Qualification Rounds",
+    "problem_url": "https://codeforces.com/contest/868/problem/C",
+    "submission_id": "CF103383584",
+    "submission_url": "https://codeforces.com/contest/868/submission/103383584",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "constructive algorithms",
+      "dp",
+      "*1500"
+    ],
+    "timestamp": "Jan/05/2021 14:11"
+  },
   "CF103383622": {
     "contest_id": 448,
     "language": "GNU C++17 (64)",
